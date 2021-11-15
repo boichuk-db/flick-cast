@@ -169,7 +169,6 @@ const MovieDetail = ({ navigation, route }) => {
         </View>
         {/* Rating */}
         <View style={[styles.categoryContainer]}>
-          {" "}
           <Image
             source={icons.star}
             resizeMode="contain"

@@ -1,3 +1,16 @@
 {
-  "name": "MovieStreamingApp"
+  "expo": {
+   "name": "Flick Cast",
+   "icon": "./assets/icons/play.png",
+   "version": "1.0.0",
+   "slug": "flick-cast",
+   "ios": {
+     "bundleIdentifier": "com.quasar.flickcast",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.quasar.flickcast",
+     "versionCode": 1
+   }
+  }
 }
